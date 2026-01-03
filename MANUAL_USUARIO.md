@@ -1,20 +1,20 @@
-# 📖 Manual de Usuario - Sistema de Gestión Comercial
+# Manual de Usuario - Sistema de Gestión Comercial
 
 **Guía completa para usuarios del sistema**
 
 ---
 
-## 🎯 ¿Qué es el Sistema de Gestión Comercial?
+## ¿Qué es el Sistema de Gestión Comercial?
 
 El Sistema de Gestión Comercial es una aplicación diseñada para administrar negocios de manera eficiente. Con este sistema es posible:
 
-- 📦 **Gestionar inventarios** de productos
-- 💰 **Realizar ventas** de forma rápida y sencilla
-- 📊 **Controlar el stock** de productos
-- 📈 **Generar reportes** para analizar negocios
-- 🏷️ **Organizar productos** por categorías y marcas
+- **Gestionar inventarios** de productos
+- **Realizar ventas** de forma rápida y sencilla
+- **Controlar el stock** de productos
+- **Generar reportes** para analizar negocios
+- **Organizar productos** por categorías y marcas
 
-## 🚪 Cómo Ingresar al Sistema
+## Cómo Ingresar al Sistema
 
 ### Paso 1: Iniciar la Aplicación
 1. Buscar el ícono del **Sistema de Gestión Comercial** en el escritorio
@@ -28,25 +28,25 @@ El Sistema de Gestión Comercial es una aplicación diseñada para administrar n
 2. Hacer clic en **"Ingresar"
 3. El sistema llevará al panel principal correspondiente
 
-## 👥 Tipos de Usuario
+## Tipos de Usuario
 
-### 🛡️ Administrador
+### Administrador
 El administrador tiene **acceso completo** al sistema:
-- ✅ Gestionar productos, categorías y marcas
-- ✅ Realizar ventas
-- ✅ Controlar stock
-- ✅ Generar reportes
-- ✅ Ver estadísticas del negocio
+- Gestionar productos, categorías y marcas
+- Realizar ventas
+- Controlar stock
+- Generar reportes
+- Ver estadísticas del negocio
 
-### 👤 Vendedor
+### Vendedor
 El vendedor tiene acceso a:
-- ✅ Realizar ventas
-- ✅ Consultar productos y stock
-- ❌ No puede modificar productos ni generar reportes
+- Realizar ventas
+- Consultar productos y stock
+- No puede modificar productos ni generar reportes
 
 ---
 
-## 📦 Gestión de Productos
+## Gestión de Productos
 
 ### ¿Cómo Ver Todos los Productos?
 
@@ -95,11 +95,11 @@ El vendedor tiene acceso a:
 1. **Seleccionar el producto** a eliminar
 2. Hacer clic en **"Eliminar"**
 3. Confirmar la eliminación
-4. ⚠️ **Nota**: El producto no se borra completamente, solo se marca como inactivo
+4. **Nota**: El producto no se borra completamente, solo se marca como inactivo
 
 ---
 
-## 💰 Sistema de Ventas
+## Sistema de Ventas
 
 ### ¿Cómo Realizar una Venta?
 
@@ -136,13 +136,13 @@ El vendedor tiene acceso a:
 
 ### ¿Qué Pasa con el Stock al Vender?
 
-- ✅ El stock se **reduce automáticamente** cuando se realiza una venta
-- ✅ Si no hay suficiente stock, el sistema avisará
-- ✅ No es posible vender más productos de los disponibles
+- El stock se **reduce automáticamente** cuando se realiza una venta
+- Si no hay suficiente stock, el sistema avisará
+- No es posible vender más productos de los disponibles
 
 ---
 
-## 📊 Gestión de Stock
+## Gestión de Stock
 
 ### ¿Cómo Ver el Stock de los Productos?
 
@@ -174,7 +174,7 @@ El vendedor tiene acceso a:
 
 ---
 
-## 🏷️ Gestión de Categorías y Marcas
+## Gestión de Categorías y Marcas
 
 ### ¿Para Qué Sirven las Categorías y Marcas?
 
@@ -197,7 +197,7 @@ El vendedor tiene acceso a:
 
 ---
 
-## 📈 Reportes y Estadísticas
+## Reportes y Estadísticas
 
 ### ¿Qué Reportes se Pueden Generar?
 
@@ -226,7 +226,7 @@ El vendedor tiene acceso a:
 
 ---
 
-## 🔧 Instalación Simplificada
+## Instalación Simplificada
 
 ### ¿Qué Necesito para Usar el Sistema?
 
@@ -248,7 +248,7 @@ El vendedor tiene acceso a:
 
 ---
 
-## ❓ Preguntas Frecuentes
+## Preguntas Frecuentes
 
 ### **P: ¿Qué hago si olvido mi contraseña?**
 **R:** Contactar al administrador de sistemas para que asigne una nueva contraseña.
@@ -270,7 +270,7 @@ El vendedor tiene acceso a:
 
 ---
 
-## 🆘 Solución de Problemas Comunes
+## Solución de Problemas Comunes
 
 ### **Problema: No puedo iniciar sesión**
 **Solución:**
@@ -298,7 +298,7 @@ El vendedor tiene acceso a:
 
 ---
 
-## 📞 Soporte Técnico
+## Soporte Técnico
 
 ### ¿Cuándo Contactar al Soporte?
 
@@ -317,31 +317,31 @@ Cuando se contacte al soporte, tener lista esta información:
 
 ---
 
-## 💡 Consejos para Usar Mejor el Sistema
+## Consejos para Usar Mejor el Sistema
 
-### 🎯 Organización
+### Organización
 - **Usar categorías claras**: Agrupar productos similares
 - **Códigos consistentes**: Usar un sistema de códigos comprensible
 - **Nombres descriptivos**: Usar nombres que identifiquen claramente el producto
 
-### 📊 Control de Stock
+### Control de Stock
 - **Revisar el stock regularmente**: Evitar quedarse sin productos
 - **Actualizar precios periódicamente**: Mantener precios competitivos
 - **Usar los reportes**: Analizar qué productos se venden más
 
-### 💰 Ventas Eficientes
+### Ventas Eficientes
 - **Conocer los productos**: Familiarizarse con el inventario
 - **Usar la búsqueda**: Es más rápido que buscar manualmente
 - **Verificar antes de confirmar**: Revisar el carrito antes de procesar
 
-### 🔒 Seguridad
+### Seguridad
 - **No compartir la contraseña**: Cada usuario debe tener la suya
 - **Cerrar sesión**: Especialmente en computadoras compartidas
 - **Hacer respaldos**: Asegurarse de que la información esté protegida
 
 ---
 
-## 🎓 Capacitación Recomendada
+## Capacitación Recomendada
 
 ### Para Nuevos Usuarios
 1. **Día 1**: Aprender a navegar por el sistema

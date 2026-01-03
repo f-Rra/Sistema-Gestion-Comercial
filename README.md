@@ -1,4 +1,4 @@
-# 🏪 Sistema de Gestión Comercial
+# Sistema de Gestión Comercial
 
 Un sistema completo de gestión comercial desarrollado en C# con Windows Forms, diseñado para la administración integral de inventarios, ventas y reportes empresariales.
 
@@ -7,62 +7,62 @@ Un sistema completo de gestión comercial desarrollado en C# con Windows Forms, 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-2016+-red)
 ![Windows Forms](https://img.shields.io/badge/UI-Windows%20Forms-lightblue)
 
-## 📋 Características Principales
+## Características Principales
 
-- ✅ **Arquitectura de 3 capas** (Dominio, Negocio, Presentación)
-- ✅ **Sistema de autenticación** con roles diferenciados (Admin/Vendedor)
-- ✅ **CRUD completo** para artículos, categorías, marcas y ventas
-- ✅ **Sistema de ventas** con carrito de compras y gestión de stock
-- ✅ **Gestión de stock** con operaciones de ajuste automático
-- ✅ **Sistema de reportes** con exportación a PNG/PDF
-- ✅ **Procedimientos almacenados** para todas las operaciones críticas
-- ✅ **Baja lógica** implementada en todas las entidades
-- ✅ **Filtros avanzados** con múltiples criterios de búsqueda
-- ✅ **Interfaz moderna** con diseño consistente y profesional
-- ✅ **Validaciones robustas** en todos los formularios
-- ✅ **Manejo de errores** completo con transacciones seguras
+- **Arquitectura de 3 capas** (Dominio, Negocio, Presentación)
+- **Sistema de autenticación** con roles diferenciados (Admin/Vendedor)
+- **CRUD completo** para artículos, categorías, marcas y ventas
+- **Sistema de ventas** con carrito de compras y gestión de stock
+- **Gestión de stock** con operaciones de ajuste automático
+- **Sistema de reportes** con exportación a PNG/PDF
+- **Procedimientos almacenados** para todas las operaciones críticas
+- **Baja lógica** implementada en todas las entidades
+- **Filtros avanzados** con múltiples criterios de búsqueda
+- **Interfaz moderna** con diseño consistente y profesional
+- **Validaciones robustas** en todos los formularios
+- **Manejo de errores** completo con transacciones seguras
 
-## 🚀 Funcionalidades del Sistema
+## Funcionalidades del Sistema
 
-### 📦 Gestión de Artículos
+### Gestión de Artículos
 - **Listado principal** con filtros avanzados
 - **Formulario de alta/modificación** con validaciones completas
 - **Vista detallada** de productos con imagen y información completa
 - **Búsqueda en tiempo real** con actualización automática
 - **Operaciones CRUD** completas usando procedimientos almacenados
 
-### 💰 Sistema de Ventas
+### Sistema de Ventas
 - **Carrito de compras** interactivo
 - **Selección de artículos** con búsqueda y filtros
 - **Cálculo automático** de totales y subtotales
 - **Actualización de stock** automática mediante triggers
 - **Registro completo** de ventas y detalles
 
-### 📊 Gestión de Stock
+### Gestión de Stock
 - **Operaciones de ajuste** Entrada/Salida
 - **Control de inventario** en tiempo real
 - **Historial de movimientos** de stock
 
-### 📈 Sistema de Reportes
+### Sistema de Reportes
 - **Inventario Completo**: Vista optimizada de todos los productos
 - **Estadísticas por Categorías**: Análisis y conteo dinámico
 - **Estadísticas por Marcas**: Análisis y conteo dinámico
 - **Reportes de Ventas**: Análisis de ventas por período
 - **Exportación inteligente**: PNG con opción de conversión a PDF
 
-### 🏷️ Gestión de Categorías y Marcas
+### Gestión de Categorías y Marcas
 - **Interfaces modernas** con diseño consistente
 - **CRUD completo** con procedimientos almacenados
 - **Validaciones** de longitud y campos obligatorios
 - **Baja lógica** para preservar relaciones
 
-### 🔐 Sistema de Autenticación
+### Sistema de Autenticación
 - **Validación segura** de credenciales
 - **Roles diferenciados**: Administrador (acceso completo) y Vendedor (ventas)
 - **Control de permisos** basado en roles
 - **Gestión de sesiones** segura
 
-## 🏗️ Arquitectura del Sistema
+## Arquitectura del Sistema
 
 ### Estructura de Capas
 ```
@@ -95,7 +95,7 @@ Sistema-Gestion-Comercial/
     └── frmMarcas.cs          # Gestión de marcas
 ```
 
-## 🗄️ Base de Datos
+## Base de Datos
 
 ### Tablas Principales
 - **ARTICULOS**: Información completa de productos
@@ -161,7 +161,7 @@ Sistema-Gestion-Comercial/
 - **tr_ValidarCodigoUnicoArticulo**: Validación de códigos únicos en artículos
 - **tr_ActualizarStockEnVenta**: Actualización automática de stock en ventas
 
-## 🛠️ Instalación y Configuración
+## Instalación y Configuración
 
 ### Requisitos del Sistema
 - **Visual Studio 2019 o superior**
@@ -199,14 +199,14 @@ Sistema-Gestion-Comercial/
 - **Administrador**: `admin` / `admin123`
 - **Vendedor**: `vendedor` / `vend123`
 
-## 🎯 Uso del Sistema
+## Uso del Sistema
 
 ### Flujo de Navegación
 
 ```
 Inicio → frmLogin → Validar credenciales →
-├── 👤 Vendedor → frmVentas (Sistema de ventas completo)
-└── 👨‍💼 Admin → frmAdmin → 
+├── Vendedor → frmVentas (Sistema de ventas completo)
+└── Admin → frmAdmin → 
     ├── [Artículos] → Gestión completa de productos
     ├── [Ventas] → Sistema de ventas
     ├── [Stock] → Gestión de inventario
@@ -217,19 +217,19 @@ Inicio → frmLogin → Validar credenciales →
 
 ### Permisos por Rol
 
-**👤 Vendedor:**
+**Vendedor:**
 - ✅ Sistema de ventas completo
 - ✅ Consulta de artículos y stock
 - ❌ No accede a gestión administrativa
 
-**👨‍💼 Administrador:**
+**Administrador:**
 - ✅ **Acceso completo al sistema**
 - ✅ Gestión de artículos, categorías y marcas
 - ✅ Sistema de ventas y stock
 - ✅ Reportes y estadísticas
 - ✅ Configuración del sistema
 
-## 🔧 Características Técnicas
+## Características Técnicas
 
 ### Seguridad
 - **Autenticación por roles** con control granular
@@ -249,7 +249,7 @@ Inicio → frmLogin → Validar credenciales →
 - **Integridad referencial** preservada
 - **Baja lógica** implementada
 
-## 👨‍💻 Autor
+## Autor
 
 **Herrera Facundo**
 - GitHub: [@f-Rra](https://github.com/f-Rra)
