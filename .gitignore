@@ -1,0 +1,11 @@
+# Compilados
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Paquetes de NuGet
+packages/
