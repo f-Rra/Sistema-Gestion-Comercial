@@ -1,6 +1,0 @@
-C:\Users\710\Desktop\TUP\Proyectos\Sistema-Gestion-Comercial\Dominio\bin\Debug\Dominio.dll
-C:\Users\710\Desktop\TUP\Proyectos\Sistema-Gestion-Comercial\Dominio\bin\Debug\Dominio.pdb
-C:\Users\710\Desktop\TUP\Proyectos\Sistema-Gestion-Comercial\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
-C:\Users\710\Desktop\TUP\Proyectos\Sistema-Gestion-Comercial\Dominio\obj\Debug\Dominio.dll
-C:\Users\710\Desktop\TUP\Proyectos\Sistema-Gestion-Comercial\Dominio\obj\Debug\Dominio.pdb
-C:\Users\710\Desktop\TUP\Proyectos\Sistema-Gestion-Comercial\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
